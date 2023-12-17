@@ -1,0 +1,15 @@
+E:\Batch2 .NET\LabEvaluation\bin\Debug\net7.0\LabEvaluation.exe
+E:\Batch2 .NET\LabEvaluation\bin\Debug\net7.0\LabEvaluation.deps.json
+E:\Batch2 .NET\LabEvaluation\bin\Debug\net7.0\LabEvaluation.runtimeconfig.json
+E:\Batch2 .NET\LabEvaluation\bin\Debug\net7.0\LabEvaluation.dll
+E:\Batch2 .NET\LabEvaluation\bin\Debug\net7.0\LabEvaluation.pdb
+E:\Batch2 .NET\LabEvaluation\obj\Debug\net7.0\LabEvaluation.csproj.AssemblyReference.cache
+E:\Batch2 .NET\LabEvaluation\obj\Debug\net7.0\LabEvaluation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Batch2 .NET\LabEvaluation\obj\Debug\net7.0\LabEvaluation.AssemblyInfoInputs.cache
+E:\Batch2 .NET\LabEvaluation\obj\Debug\net7.0\LabEvaluation.AssemblyInfo.cs
+E:\Batch2 .NET\LabEvaluation\obj\Debug\net7.0\LabEvaluation.csproj.CoreCompileInputs.cache
+E:\Batch2 .NET\LabEvaluation\obj\Debug\net7.0\LabEvaluation.dll
+E:\Batch2 .NET\LabEvaluation\obj\Debug\net7.0\refint\LabEvaluation.dll
+E:\Batch2 .NET\LabEvaluation\obj\Debug\net7.0\LabEvaluation.pdb
+E:\Batch2 .NET\LabEvaluation\obj\Debug\net7.0\LabEvaluation.genruntimeconfig.cache
+E:\Batch2 .NET\LabEvaluation\obj\Debug\net7.0\ref\LabEvaluation.dll
